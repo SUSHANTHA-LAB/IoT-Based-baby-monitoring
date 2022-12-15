@@ -1,0 +1,3 @@
+#define SECRET_SSID "moto g52"
+#define SECRET_PASS "myFAIRlady#"
+#define SECRET_DEVICE_KEY "B268QT6NBCVBSXNHTHLK"
